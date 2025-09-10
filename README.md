@@ -20,7 +20,7 @@ A collection of research notes, seminar materials, and personal study writeups.
   Supervisor: Prof. Yalong Shi  
   Studied mapping degrees and the Hairy Ball theorem via Milnor’s *Topology from the Differentiable Viewpoint*.  
   Presented at the Nanjing University Undergraduate Forum.  
-  [Notes](./Seminars/Topology_Seminar/Mapping_Degree_Notes.pdf) | [Poster](./Seminars/Topology_Seminar/Poster.pdf) | [Slides](./Seminars/Topology_Seminar/Talk_Slides.pptx)
+ [Poster](./Seminars/Topology_Seminar/Poster.pdf) | [Slides](./Seminars/Topology_Seminar/Talk_Slides.pptx)
 
 ---
 
