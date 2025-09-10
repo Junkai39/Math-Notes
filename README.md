@@ -6,7 +6,7 @@ A collection of research notes, seminar materials, and personal study writeups.
 ## Research
 - **Hamilton–Jacobi Equations** (with Prof. Hung Tran, UW–Madison)  
   Notes on viscosity solutions, vanishing viscosity, Perron’s method, and ongoing work on convergence rates.  
-  [Notes](./Research/HJ_Equation_Notes.pdf)
+  [Notes](./Research/)
 
 ---
 
