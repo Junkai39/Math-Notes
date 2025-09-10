@@ -1,35 +1,29 @@
 # Math-Notes
-This repository collects my research notes, seminar materials, and personal study writeups.
+A collection of research notes, seminar materials, and personal study writeups.
 
 ---
 
-## Research Notes
+## Research
 - **Hamilton–Jacobi Equations** (with Prof. Hung Tran, UW–Madison)  
-  Ongoing notes from my independent reading and discussions.  
-  Focus: viscosity solutions, vanishing viscosity methods, fundamental solutions, and connections with dynamical systems.  
-  [See notes](./Research/HJ_Equation_Notes.pdf)
+  Notes on viscosity solutions, vanishing viscosity, Perron’s method, and ongoing work on convergence rates.  
+  [Notes](./Research/HJ_Equation_Notes.pdf)
 
 ---
 
-## Seminar Notes
+## Seminars
+- **Spectral Theory Seminar** (Spring 2025, Nanjing University)  
+  Supervisor: Prof. Jiangong You  
+  Focus on self-adjoint operators, spectral theory, and ergodic Schrödinger operators.  
+  [Notes](./Seminars/Spectral_Theory_Seminar/Notes_Spectral_Theory.pdf)
 
-### Spectral Theory Seminar (Spring 2025, Nanjing University)
-- **Supervisor**: Prof. Jiangong You  
-- Contents: study of one-dimensional Schrödinger operators, operator convergence, spectral radius estimates.  
-- Materials: [Notes](./Seminars/Spectral_Theory_Seminar/Notes_Spectral_Theory.pdf), [Supplementary readings](./Seminars/Spectral_Theory_Seminar/Supplementary_Readings.md)
-
-### Topology Seminar (Fall 2023, Nanjing University)
-- **Supervisor**: Prof. Yalong Shi  
-- Topics: mapping degrees, applications to the Hairy Ball Theorem, clarifications of Milnor’s *Topology from the Differentiable Viewpoint*.  
-- I presented these results at the Nanjing University Undergraduate Forum.  
-- Materials: [Notes](./Seminars/Topology_Seminar/Mapping_Degree_Notes.pdf), [Poster](./Seminars/Topology_Seminar/Poster.pdf), [Slides](./Seminars/Topology_Seminar/Talk_Slides.pptx)
+- **Differential Topology Seminar** (Fall 2023, Nanjing University)  
+  Supervisor: Prof. Yalong Shi  
+  Studied mapping degrees and the Hairy Ball theorem via Milnor’s *Topology from the Differentiable Viewpoint*.  
+  Presented at the Nanjing University Undergraduate Forum.  
+  [Notes](./Seminars/Topology_Seminar/Mapping_Degree_Notes.pdf) | [Poster](./Seminars/Topology_Seminar/Poster.pdf) | [Slides](./Seminars/Topology_Seminar/Talk_Slides.pptx)
 
 ---
 
-## Miscellaneous Notes
-A collection of shorter writeups and draft notes:
-- PDE fragments
-- Geometric insights
-- Problem discussions
-
-See [Misc folder](./Misc).
+## Miscellaneous
+Shorter notes and drafts on PDE, geometry, and problem discussions.  
+[See folder](./Misc)
