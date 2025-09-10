@@ -14,13 +14,13 @@ A collection of research notes, seminar materials, and personal study writeups.
 - **Spectral Theory Seminar** (Spring 2025, Nanjing University)  
   Supervisor: Prof. Jiangong You  
   Focus on self-adjoint operators, spectral theory, and ergodic Schrödinger operators.  
-  [Notes](./Seminars/Spectral_Theory_Seminar/Notes_Spectral_Theory.pdf)
+  [Notes](./Seminars/Spectral_Theory_Seminar/)
 
 - **Differential Topology Seminar** (Fall 2023, Nanjing University)  
   Supervisor: Prof. Yalong Shi  
   Studied mapping degrees and the Hairy Ball theorem via Milnor’s *Topology from the Differentiable Viewpoint*.  
   Presented at the Nanjing University Undergraduate Forum.  
- [Poster](./Seminars/Topology_Seminar/Poster.pdf) | [Slides](./Seminars/Topology_Seminar/Talk_Slides.pptx)
+ [Poster](./Seminars/Topology_Seminar/) | [Slides](./Seminars/Topology_Seminar/)
 
 ---
 
