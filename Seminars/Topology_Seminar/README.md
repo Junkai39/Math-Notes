@@ -1,6 +1,6 @@
-# Differential Topology Seminar (Fall 2023, Nanjing University)
+# Differential Topology Seminar (Fall 2023)
 
-**Supervisor:** Prof. Yalong Shi  
+**Supervisor:** Prof. Yalong Shi  (Nanjing University)
 
 ## Topics
 - Studied Milnor’s *Topology from the Differentiable Viewpoint*  
