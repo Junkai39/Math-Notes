@@ -4,7 +4,7 @@
 
 ## Topics
 - Foundations of Riemannian geometry: geodesics, Jacobi fields and second variation  
-- Morse Index Theorem and its applications to manifold topology  
+- Morse Index Theorem and its applications to manifold classification
 
 ## References
 - J. Milnor, *Morse Theory*   
